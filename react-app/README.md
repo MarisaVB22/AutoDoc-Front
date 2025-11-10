@@ -5,15 +5,15 @@
 ```powershell
 react-app/
 ├─ src/
-│  ├─ App.tsx // Muestra el componente Mensaje.tsx para prueba
+│  ├─ App.tsx  # Muestra el componente Mensaje.tsx para prueba
 │  ├─ main.tsx
 │  └─ AutoDoc/
 │     ├─ Components/
-│     │  └─ Mensaje.tsx  // Componente de prueba
+│     │  └─ Mensaje.tsx  # Componente de prueba
 │     ├─ Models/
 │     │  └─ models.tsx
 │     └─ Services/
-│        └─ services.tsx // Servicio de prueba que llama a /saludo
+│        └─ services.tsx  # Servicio de prueba que llama a /saludo
 ├─ index.html
 ├─ package.json
 ├─ vite.config.ts
