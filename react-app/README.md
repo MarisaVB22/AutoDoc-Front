@@ -36,4 +36,3 @@ La app correrá por defecto en http://localhost:5173/.
 - El servicio principal se encuentra en services.tsx.
 - La ruta /saludo del backend Flask devuelve un JSON con el mensaje.
 - Componente Mensaje.tsx consume este servicio y muestra el mensaje en pantalla.
-```
